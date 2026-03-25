@@ -96,18 +96,3 @@ The goal is to assist financial institutions in:
 - 📈 Integrate with larger financial datasets
 
 ---
-
-## 🧑‍💻 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/credit-risk-segmentation.git
-
-# Navigate to project folder
-cd credit-risk-segmentation
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python main.py
