@@ -1,4 +1,4 @@
-# Credit Risk Modelling - K-Prototypes Clustering
+# Unsupervised-Credit-Risk-Segmentation
 
 ## Understanding Credit Risk Through Data
 
